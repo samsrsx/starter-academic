@@ -9,7 +9,7 @@ authors:
 - Eric Attias
 - Karen Weitemeyer
 - Sebastian Hölz
-- Samer Naif
+- admin
 - Tim A Minshull
 - Angus I Best
 - Amir Haroon

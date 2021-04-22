@@ -5,7 +5,7 @@ title: Water-rich bending faults at the Middle America Trench
 subtitle: ''
 summary: ''
 authors:
-- Samer Naif
+- admin
 - Kerry Key
 - Steven Constable
 - Rob L Evans
@@ -29,7 +29,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: Subduction Zones
 publishDate: '2021-04-22T20:04:02.958238Z'
 publication_types:
 - '2'

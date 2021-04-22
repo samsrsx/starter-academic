@@ -71,7 +71,7 @@ email: ""
 highlight_name: false
 ---
 
-Welcome! My name is Samer Naif. I am an Assistant Professor in the Department of Earth & Atmospheric Sciences at Georgia Tech. I lead the Electromagnetic Geophysics Lab (EGL) group, which studies a variety of problems relevant to the solid Earth Sciences. To date, my research has focused on marine electromagnetic and (to a lesser extent) seismic methods for imaging the crustal and mantle structure beneath oceanic plates and subduction zone margins. Study sites include the Central America subduction margin offshore Nicaragua and Costa Rica; the Hikurangi subduction margin offshore North Island, New Zealand; and the Alaska/Aluetians subduction margin.
+Welcome! My name is Samer Naif. I am an Assistant Professor in the Department of Earth & Atmospheric Sciences at Georgia Tech. I lead the Electromagnetic Geophysics Lab (EGL), which studies a variety of problems relevant to the solid Earth Sciences. To date, my research has focused on marine electromagnetic and (to a lesser extent) seismic methods for imaging the crustal and mantle structure beneath oceanic plates and subduction zone margins. Study sites include the Central America subduction margin offshore Nicaragua and Costa Rica; the Hikurangi subduction margin offshore North Island, New Zealand; and the Alaska/Aluetians subduction margin.
 
 Among other things, the EGL group is working towards integrating independent data sets in order to improve our understanding of regional scale geodynamic and tectonic processes. For example, coupling petrologic and magnetotelluric software packages in order to run thermodynamically self-consistent geophysical inversions of magmatic systems.
 

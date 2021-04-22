@@ -5,7 +5,7 @@ title: Melt-rich channel observed at the lithosphere-asthenosphere boundary
 subtitle: ''
 summary: ''
 authors:
-- Samer Naif
+- admin
 - K Key
 - S Constable
 - R L Evans
@@ -29,7 +29,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: Lithosphere-Asthenosphere
 publishDate: '2021-04-22T20:04:02.699245Z'
 publication_types:
 - '2'

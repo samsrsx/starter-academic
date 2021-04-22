@@ -6,7 +6,7 @@ title: An upper bound on the electrical conductivity of hydrated oceanic mantle 
 subtitle: ''
 summary: ''
 authors:
-- Samer Naif
+- admin
 tags: []
 categories: []
 date: '2018-01-01'
@@ -27,7 +27,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: Lithosphere-Asthenosphere
 publishDate: '2021-04-22T20:04:03.224852Z'
 publication_types:
 - '2'
