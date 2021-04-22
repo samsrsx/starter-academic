@@ -20,8 +20,8 @@ organizations:
 interests:
 - Electromagnetic methods in geophysics
 - Subsurface imaging & geophysical inversion
-- Fluid-tectonic processes at plate tectonic boundaries
-- Oceanic lithosphere-asthenosphere system
+- Fluid & magmatic processes at tectonic boundaries
+- Structure of the lithosphere-asthenosphere system
 
 # Education to show in About widget
 education:
