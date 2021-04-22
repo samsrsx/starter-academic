@@ -73,4 +73,4 @@ highlight_name: false
 
 Welcome! My name is Samer Naif. I am an assistant professor in the department of Earth & Atmospheric Sciences at Georgia Tech. I lead the Electromagnetic Geophysics Lab (EGL) group, which studies a variety of problems relevant to the solid Earth Sciences. To date, my research has focused on applying marine electromagnetic and (to a lesser extent) seismic methods to image the crustal and mantle structure beneath oceanic plates and subduction zone margins.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/NAIF_CV_abr.pdf" "newtab" >}}resumé{{< /staticref >}}.
