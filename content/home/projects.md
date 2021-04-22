@@ -27,10 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Subduction Zones
+    tag: Subduction Zones
+  - name: Lithosphere-Asthenosphere
+    tag: Lithosphere-Asthenosphere
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
