@@ -14,13 +14,14 @@ organizations:
   url: https://eas.gatech.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My primary research interests involve solid Earth processes. include geophysical inversion for subsurface imaging, the lithosphere-asthenosphere system,.
+# bio: My primary research interests involve solid Earth processes. include geophysical inversion for subsurface imaging, the lithosphere-asthenosphere system,.
 
 # Interests to show in About widget
 interests:
-- Geophysical Imaging
-- Subduction Zones
-- Plate Tectonics
+- Electromagnetic methods in geophysics
+- Subsurface imaging & geophysical inversion
+- Fluid-tectonic processes at plate tectonic boundaries
+- Oceanic lithosphere-asthenosphere system
 
 # Education to show in About widget
 education:
@@ -70,8 +71,6 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Welcome! My name is Samer Naif. I am an assistant professor in the department of Earth & Atmospheric Sciences at Georgia Tech. I lead the Electromagnetic Geophysics Lab (EGL) group, which studies a variety of problems relevant to the solid Earth Sciences. To date, my research has focused on applying marine electromagnetic and (to a lesser extent) seismic methods to image the crustal and mantle structure beneath oceanic plates and subduction zone margins.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
