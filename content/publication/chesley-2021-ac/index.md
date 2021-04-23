@@ -1,18 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Electrical conductivity of the lithosphere-asthenosphere system
+title: Fluid-rich subducting topography generates anomalous forearc porosity
 subtitle: ''
 summary: ''
 authors:
+- Christine Chesley
 - admin
-- Kate Selway
-- Benjamin S Murphy
-- Gary Egbert
-- Anne Pommier
+- Kerry Key
+- Dan Bassett
 tags: []
 categories: []
-date: '2021-04-01'
+date: 'accepted'
 lastmod: 2021-04-22T16:04:02-04:00
 featured: false
 draft: false
@@ -31,9 +30,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-22T20:04:02.306009Z'
+publishDate: 'accepted'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Physics of The Earth and Planetary Interiors*'
+publication: '*Nature*'
 ---
