@@ -47,15 +47,18 @@ social:
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
   link: https://scholar.google.com/citations?user=oylLc0AAAAAJ&hl=en
-# - icon: github
-#   icon_pack: fab
-#   link: https://github.com/gcushen
-# - icon: linkedin
-#   icon_pack: fab
-#   link: https://www.linkedin.com/
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Samer-Naif
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/samer-naif-1493a670
+- icon: cv  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: media/NAIF_CV_abr.pdf
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -75,4 +78,4 @@ Welcome! My name is Samer Naif. I am an Assistant Professor in the Department of
 
 Among other things, the EGL group is working towards integrating independent data sets in order to improve our understanding of regional scale geodynamic and tectonic processes. For example, coupling petrologic and magnetotelluric software packages in order to run thermodynamically self-consistent geophysical inversions of magmatic systems.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/NAIF_CV_abr.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/NAIF_CV_abr.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
