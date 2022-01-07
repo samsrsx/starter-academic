@@ -11,7 +11,7 @@ authors:
 - Dan Bassett
 tags: []
 categories: []
-date: 'accepted'
+date: '2021'
 lastmod: 2021-04-22T16:04:02-04:00
 featured: false
 draft: false
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: 'accepted'
+publishDate: '2021'
 publication_types:
 - '2'
 abstract: ''
